@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ethereum/go-ethereum/demo/contracts/contracts/bank"
+	"github.com/ethereum/go-ethereum/demo/goethereumbook/contracts/contracts/bank"
 	"log"
 	"math/big"
 	"strings"

@@ -5,7 +5,7 @@ import (
 	"crypto/ecdsa"
 	"encoding/hex"
 	"fmt"
-	localcommon "github.com/ethereum/go-ethereum/demo/common"
+	localcommon "github.com/ethereum/go-ethereum/demo/goethereumbook/common"
 	"github.com/ethereum/go-ethereum/rlp"
 	"log"
 	"math/big"

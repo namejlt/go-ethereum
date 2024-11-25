@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/demo/contracts/contracts/bank"
+	"github.com/ethereum/go-ethereum/demo/goethereumbook/contracts/contracts/bank"
 	"log"
 
 	"github.com/ethereum/go-ethereum/common"

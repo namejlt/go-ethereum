@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ethereum/go-ethereum/demo/common"
+	"github.com/ethereum/go-ethereum/demo/goethereumbook/common"
 	"log"
 	"math/big"
 

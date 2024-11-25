@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	common2 "github.com/ethereum/go-ethereum/demo/common"
+	common2 "github.com/ethereum/go-ethereum/demo/goethereumbook/common"
 
 	"github.com/ethereum/go-ethereum/common"
 )

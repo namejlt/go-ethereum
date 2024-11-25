@@ -44,3 +44,5 @@ profile.cov
 tests/spec-tests/
 cmd/abigen/main.exe
 demo/contracts/main.exe
+/demo/devchain/
+/demo/newchain/
